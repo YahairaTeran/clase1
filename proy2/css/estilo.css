@@ -1,0 +1,30 @@
+*
+{
+    margin: 20px;
+}
+body
+{
+    font-family:tahoma;
+}
+h1
+{
+    padding: 10px; 
+    border:15px;
+    border-style:dotted;
+    color:hotpink;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+p
+{
+    background-color: aqua;
+    color: blue;
+    text-align: justify;
+    
+}
+img
+{
+    width:40% ;
+    
+}
